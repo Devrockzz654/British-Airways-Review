@@ -1,6 +1,6 @@
 # British Airways Customer Reviews Dashboard
 
-![British Airways Customer Reviews Dashboard](Screenshot%202025-01-26%20at%201.34.41 PM.png)
+![British Airways Customer Reviews Dashboard]('/Users/sudebkumarmandal/Desktop/Screenshot 2025-01-26 at 4.46.39 PM.png')
 
 ## Overview
 This Tableau dashboard provides an in-depth analysis of customer reviews for British Airways. It visualizes key metrics, trends, and insights to help stakeholders understand and improve the flying experience. The dashboard is fully interactive, enabling users to filter and explore data dynamically.
